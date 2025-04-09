@@ -1,6 +1,6 @@
 # Image to PDF Converter
 
-This is a simple Python GUI application that converts images to PDF format. It supports JPEG, PNG, and PSD.
+This simple Python GUI application converts batch images to PDF format. It supports JPEG, PNG, and PSD.
 
 ## Dependencies
 
